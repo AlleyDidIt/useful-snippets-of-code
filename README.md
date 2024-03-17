@@ -1,2 +1,2 @@
 # useful-snippets-of-code
-Reusable pieces of code, modules and functions.
+reusable pieces of code, modules and functions.
